@@ -46,5 +46,53 @@
   {
     "tip": "Share something positive with someone today.",
     "tone": "supportive"
+  },
+  {
+    "tip": "Organize your workspace for a clearer state of mind.",
+    "tone": "neutral"
+  },
+  {
+    "tip": "Send a message of encouragement to someone who might need it.",
+    "tone": "supportive"
+  },
+  {
+    "tip": "Remind yourself of a past success to boost your confidence.",
+    "tone": "encouraging"
+  },
+  {
+    "tip": "Sit quietly for a few minutes and focus on your breathing.",
+    "tone": "calm"
+  },
+  {
+    "tip": "Plan a simple goal for today and take the first step.",
+    "tone": "neutral"
+  },
+  {
+    "tip": "Offer to help someone without expecting anything in return.",
+    "tone": "supportive"
+  },
+  {
+    "tip": "Celebrate a small achievement you’ve made recently.",
+    "tone": "encouraging"
+  },
+  {
+    "tip": "Listen to calming nature sounds before bed.",
+    "tone": "calm"
+  },
+  {
+    "tip": "Review your to-do list to stay organized and focused.",
+    "tone": "neutral"
+  },
+  {
+    "tip": "Give a genuine compliment to someone today.",
+    "tone": "supportive"
+  },
+  {
+    "tip": "Visualize a positive outcome for something important to you.",
+    "tone": "encouraging"
+  },
+  {
+    "tip": "Enjoy a warm cup of tea and relax without distractions.",
+    "tone": "calm"
   }
 ]
