@@ -1,0 +1,13 @@
+streamlit
+google-generativeai
+python-dotenv
+deep-translator
+vaderSentiment
+gTTS
+pymongo[srv]
+certifi
+transformers
+torch
+sentencepiece
+sentence-transformers
+numpy

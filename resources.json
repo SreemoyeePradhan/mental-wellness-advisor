@@ -1,0 +1,155 @@
+{
+  "happy": {
+    "exercises": [
+      "Gratitude journaling for 5 minutes",
+      "Take a walk and notice things you enjoy",
+      "Listen to uplifting music"
+    ],
+    "links": [
+      {
+        "title": "The Science of Happiness",
+        "url": "https://positivepsychology.com/happiness/"
+      },
+      {
+        "title": "10 Ways to Stay Happy",
+        "url": "https://www.psychologytoday.com/us/blog/the-mindful-self-express/201811/10-ways-to-stay-happy"
+      }
+    ]
+  },
+  "calm": {
+    "exercises": [
+      "5-minute guided breathing meditation",
+      "Progressive muscle relaxation",
+      "Gentle stretching"
+    ],
+    "links": [
+      {
+        "title": "Calm Mind Meditation Techniques",
+        "url": "https://www.mindful.org/calm-mind-meditation/"
+      },
+      {
+        "title": "How to Reduce Stress",
+        "url": "https://www.helpguide.org/articles/stress/stress-management.htm"
+      }
+    ]
+  },
+  "stressed": {
+    "exercises": [
+      "Box breathing for 3 minutes",
+      "Quick mindfulness scan",
+      "Stretch shoulders and neck"
+    ],
+    "links": [
+      {
+        "title": "Stress Relief Strategies",
+        "url": "https://www.apa.org/topics/stress"
+      },
+      {
+        "title": "10 Quick Stress Busters",
+        "url": "https://www.psychologytoday.com/us/blog/pieces-mind/201812/10-quick-stress-busters"
+      }
+    ]
+  },
+  "sad": {
+    "exercises": [
+      "Write about your feelings for 5 minutes",
+      "Listen to soothing music",
+      "Take a short walk outside"
+    ],
+    "links": [
+      {
+        "title": "Coping with Sadness",
+        "url": "https://www.mentalhealth.org.uk/publications/coping-sadness"
+      },
+      {
+        "title": "Ways to Improve Mood",
+        "url": "https://www.healthline.com/health/depression/how-to-feel-better"
+      }
+    ]
+  },
+  "joy": {
+    "exercises": [
+      "Dance for 5 minutes to your favorite song",
+      "Share a positive memory with a friend",
+      "Write down three things you are grateful for"
+    ],
+    "links": [
+      {
+        "title": "Boosting Joy in Life",
+        "url": "https://greatergood.berkeley.edu/article/item/why_gratitude_is_good"
+      },
+      {
+        "title": "Science of Joy",
+        "url": "https://www.psychologytoday.com/us/blog/the-mindful-self-express/201810/the-science-joy"
+      }
+    ]
+  },
+  "content": {
+    "exercises": [
+      "Reflect on your accomplishments",
+      "Enjoy a calming tea",
+      "Practice mindful breathing for 5 minutes"
+    ],
+    "links": [
+      {
+        "title": "Contentment and Wellbeing",
+        "url": "https://positivepsychology.com/contentment/"
+      },
+      {
+        "title": "Simple Ways to Feel Content",
+        "url": "https://www.psychologytoday.com/us/blog/pieces-mind/201809/the-psychology-contentment"
+      }
+    ]
+  },
+  "neutral": {
+    "exercises": [
+      "Take a mindful pause between activities",
+      "Do a 5-minute body scan meditation",
+      "Spend 5 minutes in nature"
+    ],
+    "links": [
+      {
+        "title": "Mindfulness for Everyday Life",
+        "url": "https://www.mindful.org/how-to-practice-mindfulness/"
+      },
+      {
+        "title": "Beginner’s Guide to Meditation",
+        "url": "https://www.headspace.com/meditation-101/what-is-meditation"
+      }
+    ]
+  },
+  "anxiety": {
+    "exercises": [
+      "4-7-8 breathing technique for 3 minutes",
+      "Progressive muscle relaxation",
+      "Write down your worries and let them go"
+    ],
+    "links": [
+      {
+        "title": "Coping with Anxiety",
+        "url": "https://adaa.org/living-with-anxiety"
+      },
+      {
+        "title": "10 Strategies to Calm Anxiety",
+        "url": "https://www.psychologytoday.com/us/blog/in-practice/201904/10-strategies-calm-anxiety"
+      }
+    ]
+  },
+  "anger": {
+    "exercises": [
+      "Box breathing for 5 minutes",
+      "Write down what triggered your anger",
+      "Take a brisk walk"
+    ],
+    "links": [
+      {
+        "title": "Understanding Anger",
+        "url": "https://www.apa.org/topics/anger"
+      },
+      {
+        "title": "Anger Management Tips",
+        "url": "https://www.helpguide.org/articles/relationships/anger-management.htm"
+      }
+    ]
+  }
+}

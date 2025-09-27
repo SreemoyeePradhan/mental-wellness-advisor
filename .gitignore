@@ -1,0 +1,6 @@
+.env
+_pycache_
+zen_ambient.mp3
+local_chat_storage.json
+chat_history.json
+audio_cache
