@@ -123,7 +123,26 @@ UI_LANG_NAME = st.session_state.selected_lang_name
 BACKEND_LANG_CODE = st.session_state.selected_lang_code
 
 # --------------------------
-# Theme styling
+# Theme toggle (with emoji + translation)
+# --------------------------
+toggle_label = translate_text("Dark Mode", UI_LANG_NAME)
+
+if "dark_mode" not in st.session_state:
+    st.session_state.dark_mode = True  # default ON
+
+# Emoji updates live
+emoji = "🌙" if st.session_state.dark_mode else "☀️"
+
+# Toggle switch with emoji
+dark_mode_toggle = st.sidebar.checkbox(f"{emoji} {toggle_label}", value=st.session_state.dark_mode)
+
+# Update mode when toggled
+if dark_mode_toggle != st.session_state.dark_mode:
+    st.session_state.dark_mode = dark_mode_toggle
+    st.session_state.mode = "dark" if st.session_state.dark_mode else "light"
+
+# --------------------------
+# Theme styling (dynamic)
 # --------------------------
 if st.session_state.mode == "dark":
     st.markdown("""
@@ -145,6 +164,7 @@ else:
         .summary-button { color:black; background:#e0e0e0; padding:8px; border-radius:8px; }
         </style>
     """, unsafe_allow_html=True)
+
 
 # --------------------------
 # Header
